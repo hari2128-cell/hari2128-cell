@@ -245,7 +245,7 @@
 | 🎖️ | Achievement |
 |:---:|:---|
 | 🔵 | **SIH (Smart India Hackathon)** — cleared Round 1, advanced to Round 2 |
-| 🥈 | **Runner-up**, Tenkasi Hackathon |
+| 🥈 | **Runner-up**, Tenkasi Hackathon,CreateX |
 | 🏁 | **Finalist**, SDG Hackathon and Mumbai Hackathon |
 | 📚 | **CGPA 9.5/10** through 3rd semester, B.E. Electronics & Communication Engineering, Madras Institute of Technology, Anna University |
 
